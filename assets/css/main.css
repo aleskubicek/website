@@ -295,7 +295,7 @@ p {
     .pos-grid {
         margin-top: 20px;
         display: grid;
-        grid-template-columns: 55px 1fr;
+        grid-template-columns: 60px 1fr;
         grid-template-rows: auto auto auto;
         grid-column-gap: 0px;
         grid-row-gap: 2px;
